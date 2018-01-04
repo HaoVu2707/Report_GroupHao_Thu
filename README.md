@@ -6,6 +6,6 @@ This is the report  our group<br>
 -.gitignore là file định nghĩa những file, folder nào sẽ bị bỏ qua (ignore) và không thêm nó vào git. <br>
 *Cách tạo file .gitignore*<br>
 -Đầu tiên mở terminal trong repository của bạn và gõ lệnh:<br>
-==touch .gitignore<br>==
+==touch .gitignore== <br>
 -Lúc này git sẽ tạo ra cho chúng ta 1 tệp tin là .gitignore,dùng notepad mở lên và khai báo các thư và mục tệp tin cần loại bỏ. 
 Bạn có thể vào https://github.com/github/gitignore để tham khảo một số mẫu gitignore đã có sẵn của rất nhiều ngôn ngữ & framework (Chỉ việc copy về dùng, thay đổi nếu cảm thấy cần thiết).
