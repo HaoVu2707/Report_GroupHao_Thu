@@ -29,6 +29,7 @@ Bạn có thể vào https://github.com/github/gitignore để tham khảo một
 – Nếu có nhiều người cùng thay đổi trên 1 file và cùng một chỗ thì chắc chắn bạn sẽ bị conflict và việc pull hoặc Push code lên sẽ báo lỗi và không thực hiện được. Dấu hiệu nhận biết lỗi Conflict sẽ xuất hiện dòng lỗi sau:<br>
 ![](https://i.imgur.com/k66RptC.jpg)<br><br>
 – Cách phòng tránh Conflict thì tốt nhất team nên phân chia công việc cụ thể cho riêng từng  người không được làm chung file để tránh tình trạng trên
+<<<<<<< HEAD
 =======
  # I. Sơ đồ tổng quan về hệ thống GIT
  ![](https://i.imgur.com/aTq5pm7.png)
@@ -96,3 +97,10 @@ Bạn có thể vào https://github.com/github/gitignore để tham khảo một
  
 >>>>>>> d2e23870c00a0fc100e18d25563b94edfcbe68cd
  
+=======
+ # 3. Thêm một Remote vào Git hiện tại : <br>
+ Vào Responsitory trên thanh công cụ phía trên, chọn Add Remote , ta có giống như hình dưới :<br>
+ ![](https://i.imgur.com/RrHfII5.jpg)<br>
+ -Tiếp theo chọn Add , đặt tên cho remote và lấy địa chỉ Responsitory mới trên GitHub về bằng cách copy link rồi chọn Ok <br>
+ ![](https://i.imgur.com/XNRkIK8.jpg) 
+>>>>>>> 326e82a5993affd71f62ffd77c51b89d7ffbc46b
