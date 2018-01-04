@@ -59,7 +59,18 @@ This is the report  our group
    cú pháp : git clone <đường dẫn của repository trên github của bạn>
  4. git pull origin <ten nhanh> : kéo những thay đổi mới nhất của project của bạn về local repository.
  5. git push origin <ten nhanh> : update những file , sự thay đổi đã được commit lên nhánh đó trên github.
-   
+ 6. Commit : git commit -m "nội dung commit"
+ 7. Để đổi tên commit messege, bạn sử dụng amend
+  Cú pháp: git commit --amend "Nội dung commit mới" <br>
+# VI. Cách tạo merge request trên github
+Nhu cầu khi chúng ta đã phát triển xong  1 tính năng ví dụ bar và muốn ghép nó vào với master, lúc này ta sẽ push code mình lên bar branch trên server, sau đó thực hiện yêu cầu được ghép code vào nhánh chính: yêu cầu này chính là pull request.
+1. push code nhánh bar lên server :
+  cú pháp : git push origin <tên nhánh (ví dụ : bar)>
+2. nhấn nút để tạo 1 yêu cầu merge nhánh : 
+![](https://i.imgur.com/undefined.png)
+Sau đó màn hình sẽ chuyển hướng sang khởi tạo yều cầu pull request này :
+![](https://i.imgur.com/XCBYgZL.png)
+Điền thông tin cần thiết vào và bấm Create pull request lúc này, người chịu trách nhiệm cho dự án sẽ nhận được yêu cầu của bạn, người ta sẽ kiểm tra và cho phép ghép code vào. Lúc này, tính năng bar sẽ thuộc phần chính của dự án.
     
               
  
