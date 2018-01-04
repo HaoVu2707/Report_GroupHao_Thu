@@ -13,3 +13,10 @@ Bạn có thể vào https://github.com/github/gitignore để tham khảo một
 -Đầu tiên, bạn cần tải phần mềm Source Tree về cài đặt và đăng nhập vào để có thể sử dụng <br>
 -Dưới đây là giao diện chính của Source Tree<br>
 ![](https://i.imgur.com/8qLgkTV.jpg)
+***Kéo dự án về ( Clone project )**<br>
+- Lên github để lấy địa chỉ của Responsitory về :<br>
+![](https://i.imgur.com/j0s3pK6.jpg)
+ -Bạn click vào Clone/new một popup sẽ hiện ra , copy địa chỉ vừa lấy vào Source Path , chọn nơi lưu vào Destination Path, đặt tên tệp tùy ý vào Name <br>
+ ![](https://i.imgur.com/94uzh1V.jpg)
+ 
+ 
