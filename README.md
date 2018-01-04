@@ -9,4 +9,4 @@ This is the report  our group<br>
 **touch .gitignore** <br>
 -Lúc này git sẽ tạo ra cho chúng ta 1 tệp tin là .gitignore,dùng notepad mở lên và khai báo các thư và mục tệp tin cần loại bỏ. 
 Bạn có thể vào https://github.com/github/gitignore để tham khảo một số mẫu gitignore đã có sẵn của rất nhiều ngôn ngữ & framework (Chỉ việc copy về dùng, thay đổi nếu cảm thấy cần thiết).
-![https://imgur.com/a/8kDF6] (&lt;img /&gt;)
+![](https://i.imgur.com/z8MwyKe.jpg) (&lt;img /&gt;)
