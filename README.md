@@ -20,9 +20,9 @@ Bạn có thể vào https://github.com/github/gitignore để tham khảo một
  ![](https://i.imgur.com/94uzh1V.jpg)
 **Đẩy code lên( push code )**<br>
 -Đây là việc cần thiết khi có sự thay đổi trong source code, trước khi push được bắt buộc phải click vào unstaged files và comment -> click vào push trên toolbar của source tree. Việc làm này phải được thực hiện thường xuyên khi có sự thay đổi về code để người quản lý có thể quản lý được công việc cũng như là các thành viên khác có thể nắm bắt được sự thay đổi.<br>
-![]https://i.imgur.com/oAtO37v.jpg)<br><br>
+![](https://i.imgur.com/oAtO37v.jpg)<br><br>
 **Kéo code về( pull code )**<br>
 -Cũng giống như Push code lên tuy nhiên việc bây giờ chỉ là lấy code về bao gồm những thay đổi mà thành viên khác đã push lên. Bạn chỉ cần click vào Pull ở trên toolbar của source tree<br>
-![](https://i.imgur.com/undefined.jpg)<br><br>
+![](https://i.imgur.com/ab3g1Ha.jpg)<br><br>
  
  
