@@ -72,6 +72,15 @@ Sau đó màn hình sẽ chuyển hướng sang khởi tạo yều cầu pull re
 ![](https://i.imgur.com/XCBYgZL.png)
 Điền thông tin cần thiết vào và bấm Create pull request lúc này, người chịu trách nhiệm cho dự án sẽ nhận được yêu cầu của bạn, người ta sẽ kiểm tra và cho phép ghép code vào. Lúc này, tính năng bar sẽ thuộc phần chính của dự án.
     
+xin chao    
+    
+
+    
+    
+    
+    
+    
+    
               
  
  
